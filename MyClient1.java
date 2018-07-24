@@ -37,4 +37,4 @@ InputStreamReader(System.in));
 	{
 		new MyClient1();
 	}
-}
+	//server chat with client
